@@ -55,6 +55,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-Run the Script: Open your terminal or command prompt, navigate to the directory where you saved the file, and run the script.
+Run the Script: Open your terminal or command prompt, navigate to the directory where you saved the file and run the script.
 
 python image_labels.py
